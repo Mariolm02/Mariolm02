@@ -1,4 +1,4 @@
-![Mario Lorca GitHub Banner](https://user-images.githubusercontent.com/banner-placeholder) <!-- Añade un enlace al banner aquí -->
+![Mario Lorca GitHub Banner]([https://user-images.githubusercontent.com/banner-placeholder](https://media.licdn.com/dms/image/v2/D4D16AQFJmX5wpXOlJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715795531321?e=1737590400&v=beta&t=2AyL7FUZ-mgpgG-o-q-QYvmT0kxveJrOhLZFQwINnLo)) <!-- Añade un enlace al banner aquí -->
 
 <img src="./assets/HandWave.gif" width="40" align="left"/>  
 <h2 align="left">Hola! Soy Mario Lorca</h2>
