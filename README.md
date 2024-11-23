@@ -23,29 +23,37 @@
 
 ### 🗃 Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHPMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%2366ccff.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+  
 
 ### ⚙️ Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23F7B93E.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%231572B6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-%23696969.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%2349A1F2.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%2300af9f.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Mariolm02">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mariolm02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Mariolm02">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mariolm02&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mariolm02&theme=dark&hide_border=true"/>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/Mariolm02/count.svg)
+
 
 ### 💼 Contacto
 
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/mariolorca/"><img src="https://img.shields.io/badge/LinkedIn-Mario%20Lorca-blue?style=flat&logo=linkedin"/></a>
-<a href="mailto:mariolorca@example.com"><img src="https://img.shields.io/badge/Gmail-mariolorca%40example.com-red?style=flat&logo=gmail"/></a>
+
+<a href="mailto:mariolorca@gmail.com"><img src="https://img.shields.io/badge/Gmail-mariolorca%40example.com-red?style=flat&logo=gmail"/></a>
 </p>
