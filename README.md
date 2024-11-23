@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 👨‍💻 , tras haber completado un grado medio en Sistemas Microinformáticos y Redes (SMR) y un grado superior en Administración de Sistemas Informáticos en Red (ASIR), y además trabajo como administrador de sistemas.  
+- 👨‍💻 Tras haber completado un grado medio en Sistemas Microinformáticos y Redes (SMR) y un grado superior en Administración de Sistemas Informáticos en Red (ASIR), y además trabajo como administrador de sistemas.  
 - 💡 Me interesa explorar nuevas tecnologías y construir soluciones innovadoras.  
 - 🌱 En constante aprendizaje sobre desarrollo web, inteligencia artificial y microservicios.  
 - ✍️ En mi tiempo libre, me gusta desarrollar proyectos personales y aprender sobre nuevas tecnologias.  
@@ -46,7 +46,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mariolm02&theme=dark&hide_border=true"/>
 </p>
-![Visitor Count](https://profile-counter.glitch.me/Mariolm02/count.svg)
 
 
 ### 💼 Contacto
