@@ -1,25 +1,25 @@
-![Mario Lorca GitHub Banner](https://user-images.githubusercontent.com/banner-placeholder) <!-- Añade un enlace al banner aquí -->
-
 ![Banner para Linkedin](https://github.com/user-attachments/assets/8fc69a84-1bf3-4429-b638-228ecc7ec0ec)
 
 <img src="./assets/HandWave.gif" width="40" align="left"/>  
-<h2 align="left">Hola! Soy Mario Lorca</h2>
+<h2 align="left">¡Hola! Soy Mario Lorca 👋 </h2>
 
 ### 👨‍💻 Sobre mí
 
-- 👨‍💻 Actualmente, me encuentro desarrollando mi carrera profesional como estudiante de informática.  
+- 👨‍💻 , tras haber completado un grado medio en Sistemas Microinformáticos y Redes (SMR) y un grado superior en Administración de Sistemas Informáticos en Red (ASIR), y además trabajo como administrador de sistemas.  
 - 💡 Me interesa explorar nuevas tecnologías y construir soluciones innovadoras.  
 - 🌱 En constante aprendizaje sobre desarrollo web, inteligencia artificial y microservicios.  
-- ✍️ En mi tiempo libre, me gusta desarrollar proyectos personales, escribir blogs y aprender sobre diseño.  
-- 💬 ¡No dudes en contactarme para colaborar o hablar de tecnología!  
+- ✍️ En mi tiempo libre, me gusta desarrollar proyectos personales y aprender sobre nuevas tecnologias.  
+- 💬 ¡No dudes en contactarme!  
 - 📫 **Email**: [mariolorca@example.com](mailto:mariolorca@example.com)  
 
 ### 🛠 Tecnologías que uso
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![XML](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
 
 ### 🗃 Bases de datos
 
