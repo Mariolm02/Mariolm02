@@ -10,7 +10,7 @@
 - 🌱 En constante aprendizaje sobre desarrollo web, inteligencia artificial y microservicios.  
 - ✍️ En mi tiempo libre, me gusta desarrollar proyectos personales y aprender sobre nuevas tecnologias.  
 - 💬 ¡No dudes en contactarme!  
-- 📫 **Email**: [mariolorca@example.com](mailto:mariolorca@example.com)  
+- 📫 **Email**: [mariolorca@gmail.com](mailto:mariolorca@example.com)  
 
 ### 🛠 Tecnologías que uso
 
