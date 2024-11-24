@@ -26,6 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHPMyAdmin](https://img.shields.io/badge/PhpMyAdmin-%2366ccff.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
   
 
 ### ⚙️ Herramientas
